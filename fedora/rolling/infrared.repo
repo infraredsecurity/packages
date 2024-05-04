@@ -1,0 +1,7 @@
+[infrared-repo]
+name=Infrared Security Repository
+baseurl=https://infraredsecurity.com
+enabled=1
+gpgcheck=1
+gpgkey=https://infraredsecurity.com/pgp-key.public
+
