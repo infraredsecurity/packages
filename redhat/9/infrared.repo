@@ -1,6 +1,6 @@
 [infrared-repo]
 name=Infrared Security Repository
-baseurl=https://infraredsecurity.github.io/packages/fedora/rolling
+baseurl=https://infraredsecurity.github.io/packages/redhat/9
 enabled=1
 gpgcheck=1
 gpgkey=https://infraredsecurity.github.io/packages/pgp-key.public
